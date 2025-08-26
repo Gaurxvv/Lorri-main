@@ -289,16 +289,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 ---
 
 
-## 🙏 Acknowledgments
-
-- **Solana Foundation** - For the amazing blockchain platform
-- **Modal AI** - For music generation capabilities
-- **Next.js Team** - For the incredible React framework
-- **Prisma Team** - For the excellent database ORM
-- **shadcn/ui** - For the beautiful component library
-
----
-
 <div align="center">
 
 **Made with ❤️ by the Lorri Team**
