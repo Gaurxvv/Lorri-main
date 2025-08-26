@@ -288,11 +288,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
@@ -304,19 +299,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-- **Documentation**: [docs.lorri.com](#)
-- **Discord**: [Join our community](#)
-- **Email**: support@lorri.com
-- **Twitter**: [@LorriMusic](#)
-
----
-
 <div align="center">
 
 **Made with ❤️ by the Lorri Team**
-
-[Star on GitHub](#) • [Follow on Twitter](#) • [Join Discord](#)
 
 </div>
